@@ -43,12 +43,7 @@
 <marquee direction="left" scrollamount="7" behavior="scroll">
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,html,css,tailwind,androidstudio,kotlin,c,cpp,git,linux,mysql,postgresql,mongodb,oracle" height="48" />
 </marquee>
-<!-- ====== Animated Tech Carousel (Marquee) ====== -->
-<h3 align="center">🚀 Tech Stack</h3>
-<p align="center">✨ continuously growing ✨</p>
-<marquee direction="left" scrollamount="7" behavior="scroll">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,html,css,tailwind,androidstudio,kotlin,c,cpp,git,linux,mysql,postgresql,mongodb,oracle" height="48" />
-</marquee>
+
 
 <!-- ====== Animated Gradient Separator ====== -->
 <p align="center">
