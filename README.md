@@ -39,11 +39,13 @@
 
 <!-- ====== Tech Stack ====== -->
 <h3 align="center">🚀 Tech Stack</h3>
-<p align="center">✨ continuously growing ✨</p>
-<marquee direction="left" scrollamount="7" behavior="scroll">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,html,css,tailwind,androidstudio,kotlin,c,cpp,git,linux,mysql,postgresql,mongodb,oracle" height="48" />
-</marquee>
+<p align="center">✨ Continuously Growing ✨</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,html,css,tailwind,androidstudio,kotlin,c,cpp,git,linux,mysql,postgresql,mongodb,oracle&perline=9" />
+</p>
+
+---
 
 <!-- ====== Animated Gradient Separator ====== -->
 <p align="center">
