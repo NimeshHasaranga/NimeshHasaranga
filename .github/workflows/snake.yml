@@ -1,5 +1,9 @@
 name: Generate snake animation
 
+# ✅ give the GITHUB_TOKEN write access
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"   # every 12 hours
