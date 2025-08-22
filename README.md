@@ -29,21 +29,27 @@
 </p>
 
 <!-- ====== About Me ====== -->
-### ✨ About Me
-- 🔭 **Current focus:** Building useful projects and refining architecture patterns  
-- 🌱 **Learning:** Java, Spring Boot, Python, JavaScript  
-- 💬 **Ask me about:** React patterns, performance, accessible UI  
-- 📫 **Reach me:** `nimeshhasaranga02@gmail.com`  
-- 😴 **Fun fact:** Power naps → power commits
+### 🌟 About Me
 
-<!-- ====== Animated Quote / Jokes (no border) ====== -->
+- 🔭 **Current focus** → Building impactful projects & refining software architecture  
+- 🌱 **Learning** → Java • Spring Boot • Python • JavaScript  
+- 💡 **Ask me about** → React patterns, performance tuning, accessible UI  
+- 📫 **Reach me** → [nimeshhasaranga02@gmail.com](mailto:nimeshhasaranga02@gmail.com)  
+- ⚡ **Fun fact** → Power naps ➝ power commits 🚀  
+
+<!-- Animated Gradient Quote -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2314161E&textColor=%23C9D1D9&qColor=%232575FC&aColor=%236A11CB" alt="Geeky quote" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%2314161E&textColor=%23E6EDF3&qColor=%232575FC&aColor=%236A11CB" alt="Jokes card"/>
+</p>
+
+<!-- Fancy Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575FC,100:6A11CB&height=4&section=footer"/>
 </p>
 
 <!-- ====== Animated Tech Carousel (Marquee) ====== -->
 <h3 align="center">🚀 Tech Stack</h3>
-<p align="center">scrolling —›</p>
+<p align="center">✨ continuously growing ✨</p>
 <marquee direction="left" scrollamount="7" behavior="scroll">
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,express,html,css,tailwind,androidstudio,kotlin,c,cpp,git,linux,mysql,postgresql,mongodb,oracle" height="48" />
 </marquee>
